@@ -25,13 +25,21 @@ July 2025 – 15 Days Offline Internship
 
 ## 📁 Folder Structure
 vebbox-ml-internship/
+
 ├── README.md ← Project overview
+
 ├── requirements.txt ← Python dependencies
+
 ├── .gitignore
+
 ├── notebooks/ ← Jupyter notebooks
+
 ├── scripts/ ← Python scripts for ML
+
 ├── models/ ← Trained model files
+
 ├── datasets/ ← Sample data used
+
 └── reports/ ← Graphs, logs, and summaries
 
 ## 📌 Note
